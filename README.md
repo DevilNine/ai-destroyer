@@ -11,7 +11,7 @@
   [![100% Local](https://img.shields.io/badge/Privacy-100%25%20Local-22D3EE?style=flat-square)](#)
   [![No Data Collection](https://img.shields.io/badge/Data-No%20Tracking-F59E0B?style=flat-square)](#)
 
-  [**Support this project on Ko-fi**](https://ko-fi.com/devilnine) • [**Live Demo**](#)
+  [**Support this project on Ko-fi**](https://ko-fi.com/devilnine) • [**Live Demo**](https://ai-destroyer.pages.dev/)
 </div>
 
 <br>
